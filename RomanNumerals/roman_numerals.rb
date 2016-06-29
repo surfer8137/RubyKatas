@@ -86,4 +86,3 @@ class RomanNumeral
   private :toIntegerArray, :toRomanArray, :toRomanValues
 
 end
- 
